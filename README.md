@@ -23,7 +23,10 @@ This project is intended **strictly for educational purposes**. Modifying kernel
 ```bash
 make
 sudo insmod reboot_blocker.ko
+```
 
 ## 🛠️ Remove it
+
 ```bash
 sudo rmmod reboot_blocker
+``` 
